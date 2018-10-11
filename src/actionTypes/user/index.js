@@ -1,0 +1,2 @@
+export const USER_SAVING = 'USER/SAVING';
+export const USER_SAVE_SUCCESS = 'USER/SAVE_SUCCESS';

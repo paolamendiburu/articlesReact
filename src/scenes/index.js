@@ -1,0 +1,10 @@
+import ArticleDetails from "./ArticleDetails/index";
+export { default as Register } from "./Auth/Register";
+export { default as Login } from "./Auth/Login";
+export { default as Auth } from "./Auth";
+export { default as Admin } from "./Admin";
+export { default as Account } from "./Admin/Account";
+export { default as Home } from "./Home";
+export { default as ArticleDetails } from "./ArticleDetails";
+export { default as CategoryArticles } from "./CategoryArticles";
+export { default as UserArticles } from "./UserArticles";
